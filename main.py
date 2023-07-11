@@ -31,7 +31,7 @@ def gpt(text) -> str:
 		return None
 		
 
-app = Client('gTp',20993785,'a5378e174b86b9fc3cf1ef284e2767b4',
+app = Client('gpTp',20993785,'a5378e174b86b9fc3cf1ef284e2767b4',
 "6342148153:AAFWyu9qaoIPvenK_MKy70adqEuEbdzgIWU")
 
 
